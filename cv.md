@@ -4,7 +4,7 @@
 ## Junior Frontend Developer
 ***
 ### Contact information
-**Phone:** +447504025050\
+**Phone:** +447504025051\
 **E-mail:** yul.ramanenka@gmail.com\
 **[Linkedin](https://www.linkedin.com/in/yulyana-ramanenka/)**
 ***
