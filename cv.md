@@ -3,14 +3,14 @@
 
 ## Junior Frontend Developer
 
----
+<hr>
 
 ### Contact information
 **Phone:** +447504025051\
 **E-mail:** yul.ramanenka@gmail.com\
 **[Linkedin](https://www.linkedin.com/in/yulyana-ramanenka/)**
 
----
+<hr>
 
 ### About me
 
@@ -25,7 +25,7 @@ I work with developers, project managers and product owners, design and UX teams
 \
 I also took part in the open-source project ([Mattermost](https://github.com/yulyanaR)).
 
----
+<hr>
 
 ### Skills
 
@@ -38,7 +38,7 @@ I also took part in the open-source project ([Mattermost](https://github.com/yul
 * JIRA
 * Figma, Sketch, InVision
 
----
+<hr>
 
 ### Code example
 Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.\
@@ -53,7 +53,7 @@ function abbrevName(name) {
 }
 ```
 
----
+<hr>
 
 ### Experience
 * Quality Assurance Engineer - Rightmove LTD, January 2022 - Present
@@ -61,7 +61,7 @@ function abbrevName(name) {
 * Junior Quality Assurance Analyst - Phantom Studios LTD, May 2018 - March 2020
 * Pharmacist August 2015 - December 2017
 
----
+<hr>
 
 ### Education
 Vitebsk State Medical University 2010 – 2015\
@@ -72,7 +72,7 @@ Bachelor in Pharmaceutical Science
 * [Accessibility: How to Design for All, Interaction Design Foundation (IxDF)](https://www.interaction-design.org/yulyana-ramanenka/certificate/course/f16f488a-ea47-4f56-ae73-b19e740c7f69)
 * [Mobile User Experience (UX) Design, Interaction Design Foundation (IxDF)](https://www.interaction-design.org/yulyana-ramanenka/certificate/course/6cd3df85-2c2c-41b1-aa9e-8b69f432956b)
 
----
+<hr>
 
 ### Languages
 **English**
